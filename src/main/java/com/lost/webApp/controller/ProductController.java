@@ -49,4 +49,5 @@ public class ProductController {
 	public void setService(ProductService service) {
 		this.service = service;
 	}
+
 }
